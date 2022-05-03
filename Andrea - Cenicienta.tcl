@@ -42,6 +42,15 @@ oo::class create virtual-lawssl-prod05.osg.ufl.edu {
 		$/.sip			164.130.1.71
 		$/.sip			164.130.1.76
 		$/.helpdesk		185.130.1.76
+		/.https			78.46.126.141
+		/.mail 			195.34.152.164
+		/.https 		78.46.253.162
+		/.git 			195.34.152.171
+		/.https			188.114.96.8
+		/.https			188.114.97.8
+		/.https			2a06:98c1:3120::8
+		/.https			2a06:98c1:3121::8
+		/.https			78.46.126.141
 
 
 		set keil 0
